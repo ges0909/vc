@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.colorTheme": "Material Theme Lighter",
+  "materialTheme.fixIconsRunning": false,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#f2f2f2"
+  }
+}

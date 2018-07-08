@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vue-cute-timeline": "^1.2.5"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.1",
+    "sass-loader": "^7.0.3",
+    "vuepress": "^0.10.2"
+  }
+}
