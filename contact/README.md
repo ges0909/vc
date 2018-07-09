@@ -4,10 +4,9 @@ lang: de-DE
 ---
 # Kontakt
 
-Ich bin derzeit in ungekündigter Anstellung.
-
-Bei Interesse an einer Mitabeit in Ihrem Projekt muss ich Sie deshalb bitten,
-zunächst Anfragen an meinen Arbeitgeber zu richten:
+Derzeit bin ich in ungekündigter Anstellung. Bei Interesse an einer Mitabeit in
+Ihrem Projekt muss ich Sie deshalb bitten, zunächst Anfragen an meinen Arbeitgeber
+zu richten:
 
 Dr. Rene Biewald  
 Manager Project Office and Staffing  
@@ -18,12 +17,12 @@ web: [infinIT services](https://infinit-services.de/)
 
 ## Ich suche
 
-Unabhängig davon bin ich offen für Stellenangebote, vorzugsweise für den Raum Berlin.
-In diesem Fall können Sie mich über [gerrit.schrader@gmail.com](mailto:gerrit.schrader@gmail.com)
-kontaktieren.
+Unabhängig davon bin ich offen für Stellenangebote, vorzugsweise im Raum Berlin.
+In diesem Fall können Sie über [gerrit.schrader@gmail.com](mailto:gerrit.schrader@gmail.com)
+Kontakt mit mir aufnehmen.
 
-Bevorzugt antworte ich auf Anfragen von Unternehmen, die im eigenen Auftrag suchen.
-Gewerbliche Recruiter haben dagegen wenig Chancen.
+Gerne antworte ich auf Anfragen von Unternehmen, die im eigenen Auftrag suchen.
+Gewerbliche Recruiter haben dagegen geringe Chancen.
 
 Ich verfüge über ein Zwischenzeugnis vom Mai 2018, dass ich Ihnen bei ernst gemeinten
 Angeboten gerne zukommen lasse.

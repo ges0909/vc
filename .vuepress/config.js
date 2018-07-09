@@ -14,6 +14,10 @@ module.exports = {
         link: '/projects/'
       },
       {
+        text: 'Ich biete',
+        link: '/offerings/'
+      },
+      {
         text: 'Kontakt',
         link: '/contact/'
       }
