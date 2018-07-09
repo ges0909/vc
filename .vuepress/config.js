@@ -1,34 +1,27 @@
 module.exports = {
   base: '/',
-  title: 'Curriculum Vitae',
-  description: "Gerrit Schrader",
-  serviceWorker: true,
-  markdown: {
-    lineNumbers: true
-  },
+  title: 'Gerrit Schrader',
+  description: 'Senior Software Developer',
   themeConfig: {
+    logo: 'hero.jpg',
     nav: [
       {
         text: 'Home',
         link: '/'
       },
       {
-        text: '1',
-        link: '/timeline-1/'
+        text: 'Projekte',
+        link: '/projects/'
       },
       {
-        text: '2',
-        link: '/timeline-2/'
-      },
-      {
-        text: '3',
-        link: '/timeline-3/'
-      },
-      {
-        text: 'About',
-        link: '/about/'
+        text: 'Kontakt',
+        link: '/contact/'
       }
     ]
   },
   sidebarDepth: 1
+  // serviceWorker: true,
+  // markdown: {
+  //   lineNumbers: true
+  // }
 };
