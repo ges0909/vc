@@ -6,9 +6,8 @@ lang: de-DE
 # Ich biete
 
 * Fähigkeit zum analytischen Denken
-* Genauigkeit bei der Umsetzung Ihrer Anforderungen
-* nachgewiesene Teamfähigkeit durch Einsatz bei verschiedenen Kunden
-* fundiertes Wissen über Objektorientireung
+* Genauigkeit bei der Umsetzung von Anforderungen
+* nachgewiesene Teamfähigkeit durch Einsatz in diversen Projekten bei verschiedenen Kunden
 * Spass an Neuem
 
 ## Java
@@ -47,6 +46,7 @@ lang: de-DE
 * [Source Tree](https://www.sourcetreeapp.com/)
 * [Confluence](https://de.atlassian.com/software/confluence)
 * [Jira](https://de.atlassian.com/software/jira)
+* [JSON](https://www.json.org/) und [YAML](http://yaml.org/)
 * [PlantUML](http://plantuml.com/)
 * sicherer Umgang mit der Kommandozeile ([bash](https://www.gnu.org/software/bash/), etc.)
 * Datenbanken, SQL und ORM

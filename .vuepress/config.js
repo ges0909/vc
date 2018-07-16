@@ -1,9 +1,10 @@
 module.exports = {
   base: '/',
   title: 'Gerrit Schrader',
-  description: 'Senior Software Developer',
+  description: 'Senior Softwareingenieur',
   themeConfig: {
     logo: 'hero.jpg',
+    search: false,
     nav: [
       {
         text: 'Home',

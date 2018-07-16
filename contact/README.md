@@ -5,7 +5,7 @@ lang: de-DE
 # Kontakt
 
 Derzeit bin ich in ungekündigter Anstellung. Bei Interesse an einer Mitabeit in
-Ihrem Projekt muss ich Sie deshalb bitten, zunächst Anfragen an meinen Arbeitgeber
+Ihrem Projekt muss ich Sie deshalb bitten, Anfragen zunächst an meinen Arbeitgeber
 zu richten:
 
 Dr. Rene Biewald  
